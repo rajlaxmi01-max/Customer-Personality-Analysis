@@ -12,7 +12,8 @@ Hypothesis 5: Customers with lower income have higher tendency to accept deals o
 
 Data cleaning & loading, Feature Engineering, Attribute correlation & visualistion are the steps performed using python libraries such as pandas, matplotlib, numpy & seaborn.
 
-Based on the hypothesis that were true and looking at the Pearson correletion matrix, it is concluded that spent is highly correlated with Income and Seniority Group(Customer_For(in Days). 
+Based on the hypothesis that were true and looking at the Pearson correletion matrix, it is concluded that spent is highly correlated with Income and Seniority Group.
+
 Four segments are formed to identify the customers that business needs to focus on for better performance:
 
 1. A-List: High Income, Old Customers
